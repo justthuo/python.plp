@@ -1,0 +1,27 @@
+# 🌍 COVID-19 Global Trends Analysis
+
+This project analyzes global COVID-19 trends using real-world data. It focuses on tracking the number of cases, deaths, and vaccinations across selected countries over time. The analysis includes visualizations to help communicate trends and insights effectively.
+
+## 🎯 Project Objectives
+
+- Import and clean COVID-19 global data
+- Analyze time trends (cases, deaths, vaccinations)
+- Compare metrics across countries (Kenya, USA, India)
+- Visualize trends using charts
+- Communicate findings in a simple and readable format
+
+## 🧰 Tools & Libraries Used
+
+- Python
+- pandas
+- matplotlib
+- seaborn
+
+## 🚀 How to Run the Project
+
+1. Download the dataset [`owid-covid-data.csv`](https://github.com/owid/covid-19-data/tree/master/public/data).
+2. Save it in the same directory as `covid_project.py`.
+3. Run the script:
+
+```bash
+python covid_project.py
